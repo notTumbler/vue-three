@@ -1,0 +1,121 @@
+{
+  "id": "1728205",
+  "name": "douyin",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "554117",
+      "name": "音符",
+      "font_class": "iconset0163",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "3899351",
+      "name": "音符",
+      "font_class": "yinfu",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "6999490",
+      "name": "音符",
+      "font_class": "tuya-",
+      "unicode": "e759",
+      "unicode_decimal": 59225
+    },
+    {
+      "icon_id": "3851368",
+      "name": "评论",
+      "font_class": "pinglun",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "5121501",
+      "name": "评论",
+      "font_class": "pinglun1",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "5327493",
+      "name": "分享",
+      "font_class": "fenxiang",
+      "unicode": "e705",
+      "unicode_decimal": 59141
+    },
+    {
+      "icon_id": "5483910",
+      "name": "爱心",
+      "font_class": "aixin",
+      "unicode": "e741",
+      "unicode_decimal": 59201
+    },
+    {
+      "icon_id": "5648916",
+      "name": "mbe-爱心",
+      "font_class": "aixin-lan",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "6999503",
+      "name": "爱心",
+      "font_class": "tuya_huabanfuben",
+      "unicode": "e75e",
+      "unicode_decimal": 59230
+    },
+    {
+      "icon_id": "7192333",
+      "name": "评论",
+      "font_class": "pinglun2",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "5833101",
+      "name": "live",
+      "font_class": "live",
+      "unicode": "e73d",
+      "unicode_decimal": 59197
+    },
+    {
+      "icon_id": "7120577",
+      "name": "查找",
+      "font_class": "chazhao",
+      "unicode": "e74b",
+      "unicode_decimal": 59211
+    },
+    {
+      "icon_id": "925451",
+      "name": "对号",
+      "font_class": "duihao",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "1646225",
+      "name": "订场",
+      "font_class": "dingchang",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "6119266",
+      "name": "加号",
+      "font_class": "plus-line",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "13637013",
+      "name": "信号",
+      "font_class": "xinhao",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    }
+  ]
+}
