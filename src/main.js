@@ -9,6 +9,11 @@ import 'swiper/dist/css/swiper.css'
 import 'vue-video-player/src/custom-theme.css'
 import 'video.js/dist/video-js.css'
 
+// 自定义弹窗
+import Toast from './components/toast/toast'
+
+Vue.prototype.$toast = Toast
+
 Vue.config.productionTip = false
 
 Vue.use(VueAwesomeSwiper)

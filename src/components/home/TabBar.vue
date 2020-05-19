@@ -7,15 +7,15 @@
       <router-link to='/follow' tag="span" :class="tabIndex==1?'active':''">熟人</router-link>
     </div>
     <div class="item" @click="change(2)">
-      <router-link to tag="span" :class="tabIndex==2?'active':''">
+      <router-link to="/publish" tag="span" :class="tabIndex==2?'active':''">
         <span class="iconfont icon-plus-line"></span>
       </router-link>
     </div>
     <div class="item" @click="change(3)">
-      <router-link to tag="span" :class="tabIndex==3?'active':''">消息</router-link>
+      <router-link to='/msg' tag="span" :class="tabIndex==3?'active':''">消息</router-link>
     </div>
     <div class="item" @click="change(4)">
-      <router-link to tag="span" :class="tabIndex==4?'active':''">我</router-link>
+      <router-link to="/sign" tag="span" :class="tabIndex==4?'active':''">我的</router-link>
     </div>
   </div>
 </template>
